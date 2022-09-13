@@ -2,5 +2,5 @@
 # data pre processing
 # Data analysis
 # Train test split
-# XGBoost Regressor
-# Evaluation
+# Pick model e.g., XGBoost Regressor, Linear Regression, Logistic Regression etc
+# Model Evaluation
